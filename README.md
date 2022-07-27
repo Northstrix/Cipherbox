@@ -1,7 +1,8 @@
 # Cipherbox
 Cipherbox is what I consider to be a cryptographic swiss knife.  It utilizes six encryption algorithms, and it's also a vault that's locked with four RFID cards, your username, and password.
 
-Cipherbox consists of three microcontrollers: ESP32, Arduino Uno, and ESP8266.
+Cipherbox V1.0 consists of three microcontrollers: ESP32, Arduino Uno, and ESP8266.</br>
+Cipherbox V2.0 consists of four microcontrollers: ESP32, Arduino Uno, ESP8266, and Arduino Nano (or any compatible board).
 
 You can find the tutorial here https://www.instructables.com/Cipherbox/
 </br></br>
