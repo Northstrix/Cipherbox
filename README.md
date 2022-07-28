@@ -7,15 +7,11 @@ Cipherbox V2.0 consists of four microcontrollers: ESP32, Arduino Uno, ESP8266, a
 You can find the tutorials here https://www.instructables.com/Cipherbox/</br>
 and here https://www.instructables.com/Cipherbox-V20/
 </br></br>
-![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_143957_hdr.jpg)
+![image text](https://github.com/Northstrix/Cipherbox/blob/main/V2.0/Photos/IMG_20220727_162943_hdr.jpg)
+![image text](https://github.com/Northstrix/Cipherbox/blob/main/V2.0/Photos/IMG_20220727_161226_hdr.jpg)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_134128.jpg)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_142917_hdr.jpg)
-![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_143106_hdr.jpg)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_144723_hdr.jpg)
-![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_151052_hdr.jpg)
-![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_151114_hdr.jpg)
-![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_153103_hdr.jpg)
-![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_153312_hdr.jpg)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_153755_hdr.jpg)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_154006_hdr.jpg)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_154109_hdr.jpg)
