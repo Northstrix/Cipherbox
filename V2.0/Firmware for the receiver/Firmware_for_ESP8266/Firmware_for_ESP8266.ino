@@ -375,8 +375,6 @@ void decr_AES(int res[]){
       }
       Serial.print("Received text:");
       Serial.println(plt);
-      Serial.print("Received text:");
-      Serial.println(plt);
       display.setTextSize(1);
       display.setTextColor(BLACK);
       display.setCursor(0,0);
