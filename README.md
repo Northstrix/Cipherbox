@@ -5,8 +5,9 @@ Cipherbox V1.0 consists of three microcontrollers: ESP32, Arduino Uno, and ESP82
 Cipherbox V2.0 consists of four microcontrollers: ESP32, Arduino Uno, ESP8266, and Arduino Nano (or any compatible board).</br>
 Cipherbox V3.0 consists of two microcontrollers: ESP32, and Arduino UNO.
 
-You can find the tutorials here https://www.instructables.com/Cipherbox/</br>
-and here https://www.instructables.com/Cipherbox-V20/
+You can find the tutorials here:</br>
+V1.0: https://www.instructables.com/Cipherbox/</br>
+V2.0: https://www.instructables.com/Cipherbox-V20/
 </br></br>
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V2.0/Photos/IMG_20220727_162943_hdr.jpg)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V2.0/Photos/IMG_20220727_161226_hdr.jpg)
