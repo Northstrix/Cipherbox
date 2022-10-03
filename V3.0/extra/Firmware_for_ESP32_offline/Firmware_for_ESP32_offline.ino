@@ -5,6 +5,7 @@ Distributed under the MIT License
 For more information please visit
 https://github.com/Northstrix/Cipherbox
 https://sourceforge.net/projects/mcu-cipherbox
+https://osdn.net/projects/cipherbox
 Required libraries:
 https://github.com/zhouyangchao/AES
 https://github.com/peterferrie/serpent
