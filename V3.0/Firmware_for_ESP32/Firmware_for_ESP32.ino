@@ -1991,7 +1991,7 @@ void main_menu(int curr_pos){
     tft.setTextColor(0xffff, 0xf17f);
     tft.fillRect(38, 194, 166, 12, 0xf17f);
     tft.setCursor(40,196);
-    tft.print("Online Stored Logins");
+    tft.print("Online Stored Notes");
    }
    if (curr_pos == 1){
     tft.setTextColor(0xffff, 0xf17f);
@@ -2027,7 +2027,7 @@ void main_menu(int curr_pos){
     tft.setCursor(40,184);
     tft.print("SQL");
     tft.setCursor(40,196);
-    tft.print("Online Stored Logins");
+    tft.print("Online Stored Notes");
    }
    if (curr_pos == 2){
     tft.setCursor(40,40);
@@ -2063,7 +2063,7 @@ void main_menu(int curr_pos){
     tft.setCursor(40,184);
     tft.print("SQL");
     tft.setCursor(40,196);
-    tft.print("Online Stored Logins");
+    tft.print("Online Stored Notes");
    }
    if (curr_pos == 3){
     tft.setCursor(40,40);
@@ -2099,7 +2099,7 @@ void main_menu(int curr_pos){
     tft.setCursor(40,184);
     tft.print("SQL");
     tft.setCursor(40,196);
-    tft.print("Online Stored Logins");
+    tft.print("Online Stored Notes");
    }
    if (curr_pos == 4){
     tft.setCursor(40,40);
@@ -2135,7 +2135,7 @@ void main_menu(int curr_pos){
     tft.setCursor(40,184);
     tft.print("SQL");
     tft.setCursor(40,196);
-    tft.print("Online Stored Logins");
+    tft.print("Online Stored Notes");
    }
    if (curr_pos == 5){
     tft.setCursor(40,40);
@@ -2171,7 +2171,7 @@ void main_menu(int curr_pos){
     tft.setCursor(40,184);
     tft.print("SQL");
     tft.setCursor(40,196);
-    tft.print("Online Stored Logins");
+    tft.print("Online Stored Notes");
    }
    if (curr_pos == 6){
     tft.setCursor(40,40);
@@ -2207,7 +2207,7 @@ void main_menu(int curr_pos){
     tft.setCursor(40,184);
     tft.print("SQL");
     tft.setCursor(40,196);
-    tft.print("Online Stored Logins");
+    tft.print("Online Stored Notes");
    }
    if (curr_pos == 7){
     tft.setCursor(40,40);
@@ -2243,7 +2243,7 @@ void main_menu(int curr_pos){
     tft.setCursor(40,184);
     tft.print("SQL");
     tft.setCursor(40,196);
-    tft.print("Online Stored Logins");
+    tft.print("Online Stored Notes");
    }
    if (curr_pos == 8){
     tft.setCursor(40,40);
@@ -2279,7 +2279,7 @@ void main_menu(int curr_pos){
     tft.setCursor(40,184);
     tft.print("SQL");
     tft.setCursor(40,196);
-    tft.print("Online Stored Logins");
+    tft.print("Online Stored Notes");
    }
    if (curr_pos == 9){
     tft.setCursor(40,40);
@@ -2315,7 +2315,7 @@ void main_menu(int curr_pos){
     tft.setCursor(40,184);
     tft.print("SQL");
     tft.setCursor(40,196);
-    tft.print("Online Stored Logins");
+    tft.print("Online Stored Notes");
    }
    if (curr_pos == 10){
     tft.setCursor(40,40);
@@ -2351,7 +2351,7 @@ void main_menu(int curr_pos){
     tft.setCursor(40,184);
     tft.print("SQL");
     tft.setCursor(40,196);
-    tft.print("Online Stored Logins");
+    tft.print("Online Stored Notes");
    }
    if (curr_pos == 11){
     tft.setCursor(40,40);
@@ -2387,7 +2387,7 @@ void main_menu(int curr_pos){
     tft.setCursor(40,184);
     tft.print("SQL");
     tft.setCursor(40,196);
-    tft.print("Online Stored Logins");
+    tft.print("Online Stored Notes");
    }
    if (curr_pos == 12){
     tft.setCursor(40,40);
@@ -2423,7 +2423,7 @@ void main_menu(int curr_pos){
     tft.setTextColor(0xffff, 0xf17f);
     tft.fillRect(38, 194, 166, 12, 0xf17f);
     tft.setCursor(40,196);
-    tft.print("Online Stored Logins");
+    tft.print("Online Stored Notes");
    }
    if (curr_pos == 13){
     tft.setTextColor(0xffff, 0xf17f);
@@ -2459,7 +2459,7 @@ void main_menu(int curr_pos){
     tft.fillRect(38, 194, 166, 12, 0xffff);
     tft.setCursor(40,196);
     tft.setTextColor(0xf17f, 0xffff);
-    tft.print("Online Stored Logins");
+    tft.print("Online Stored Notes");
    }
 }
 
