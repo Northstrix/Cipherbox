@@ -28,7 +28,6 @@ V2.0: https://www.instructables.com/Cipherbox-V30/
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_154448_hdr.jpg)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_154756_hdr.jpg)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_155406_hdr.jpg)
-*All credentials demonstrated here are entirely fictitious. Any similarity to actual credentials is purely coincidental.
 </br></br>
 Encryption algorithms utilized by this device
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Ciphers/BASA.png)
