@@ -8,7 +8,14 @@ Cipherbox V3.0 consists of two microcontrollers: ESP32, and Arduino UNO.
 You can find the tutorials here:</br>
 V1.0: https://www.instructables.com/Cipherbox/</br>
 V2.0: https://www.instructables.com/Cipherbox-V20/
+V2.0: https://www.instructables.com/Cipherbox-V30/
 </br></br>
+![image text](https://github.com/Northstrix/Cipherbox/blob/main/V3.0/Photos/IMG_20221015_134033_hdr.jpg)
+![image text](https://github.com/Northstrix/Cipherbox/blob/main/V3.0/Photos/IMG_20221015_142449_hdr.jpg)
+![image text](https://github.com/Northstrix/Cipherbox/blob/main/V3.0/Photos/IMG_20221015_144856_hdr.jpg)
+![image text](https://github.com/Northstrix/Cipherbox/blob/main/V3.0/Photos/IMG_20221015_160702_hdr.jpg)
+![image text](https://github.com/Northstrix/Cipherbox/blob/main/V3.0/Photos/IMG_20221015_164114_hdr.jpg)
+![image text](https://github.com/Northstrix/Cipherbox/blob/main/V3.0/Photos/IMG_20221015_171243_hdr.jpg)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V2.0/Photos/IMG_20220727_162943_hdr.jpg)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V2.0/Photos/IMG_20220727_161226_hdr.jpg)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_134128.jpg)
@@ -21,12 +28,14 @@ V2.0: https://www.instructables.com/Cipherbox-V20/
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_154448_hdr.jpg)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_154756_hdr.jpg)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Photos/IMG_20220705_155406_hdr.jpg)
-All credentials are fictional (just in case).
+*All credentials demonstrated here are entirely fictitious. Any similarity to actual credentials is purely coincidental.
 </br></br>
 Encryption algorithms utilized by this device
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Ciphers/BASA.png)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Ciphers/ASA.png)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Ciphers/AS.png)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Ciphers/BS.png)
-![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Ciphers/A.png)
 ![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Ciphers/S.png)
+![image text](https://github.com/Northstrix/Cipherbox/blob/main/V3.0/Ciphers/3D.png)
+![image text](https://github.com/Northstrix/Cipherbox/blob/main/V1.0/Ciphers/A.png)
+
